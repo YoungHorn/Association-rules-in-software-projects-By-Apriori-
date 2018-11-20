@@ -1,10 +1,10 @@
 
-
 Data came from a website created in 1997.
 
 At first, the website was named Freshmeat, and changed to Freecode in 2011.
 
 It is a catalogue that tracks free, free and open source software projects, but it stopped updating in 2014.
 
+This project comes from the 2nd chapter of the book named 《python数据挖掘概念/方法与实践》.
 
-...to be continued
+The code comes from github: https://github.com/megansquire/masteringDM/tree/master/ch2
