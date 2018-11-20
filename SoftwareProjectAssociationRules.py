@@ -152,7 +152,7 @@ doubletonSet = set()
 db = pymysql.connect(host = 'localhost',
                      db = 'test',
                      user = 'root',
-                     password = 'young13..',
+                     password = '输入正确密码',
                      port = 3306,
                      charset = 'utf8')
 cursor = db.cursor()
